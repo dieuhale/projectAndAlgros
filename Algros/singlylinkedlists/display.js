@@ -55,6 +55,7 @@ class SLL {
     }
   }
 
+  //   Create display() that uses a while loop and a runner to return a string containing all list values. Build what you wish console.log(myList) did!
   display() {
     var myList = "";
     let current = this.head;

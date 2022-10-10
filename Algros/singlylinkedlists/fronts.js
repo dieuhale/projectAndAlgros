@@ -36,7 +36,6 @@ class SLL {
       this.head = current.next;
     } else {
       while (current.next) {
-        count++;
         previous = current;
 
         current = current.next;
